@@ -1,19 +1,5 @@
 
 
-### New Project Name Suggestions
-
-* **DroneTrackRT** (Drone Tracking in Real Time)
-* **AeroTrack**
-* **SkyGuardian**
-* **DroneVisionRT**
-* **FalconEye**
-
-👉 Mon choix : **DroneTrackRT** (clair, technique, et met l’accent sur le temps réel).
-
----
-
-### Reformulated README (English)
-
 ````markdown
 # DroneTrackRT
 
