@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # DroneTrackRT
 
 **DroneTrackRT** is a real-time drone tracking system leveraging the power of the YOLO object detection framework and NVIDIA TensorRT, optimized for the Jetson Nano platform.  
